@@ -10,4 +10,4 @@ Currently a Web Developer at Scotiabank.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayshu-nr&show_icons=true&locale=en&layout=compact" alt="shayshu-nr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayshu-nr&show_icons=true&locale=en" alt="shayshu-nr" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shayshu-nr&show_icons=true&locale=en" alt="shayshu-nr" /></p>
